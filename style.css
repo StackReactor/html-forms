@@ -1,8 +1,6 @@
-* {
-  color: white;
-}
 body {
   padding: 10px;
+  background-color: bisque;
 }
 
 input {
@@ -31,6 +29,6 @@ form input [type="radio"] + label{
   display: inline;
 }
 
-fieldset {
-  color: white;
+form {
+  margin: .5rem;
 }
