@@ -30,3 +30,7 @@ form input [type="text"]{
 form input [type="radio"] + label{
   display: inline;
 }
+
+fieldset {
+  color: white;
+}
